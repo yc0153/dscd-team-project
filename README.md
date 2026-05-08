@@ -6,3 +6,4 @@
 |------|------------|------------|
 | Yangchan | 22000415 | [https://github.com/yc0153/dscd-team-project](https://github.com/yc0153/dscd-team-project) |
 | Parkseoyeon | 22400264 | [https://github.com/yean1234/dscd-team-project](https://github.com/yean1234/dscd-team-project) |
+| Inchiyeon | 22000605 | [https://github.com/inchichi/dscd-team-project](https://github.com/inchichi/dscd-team-project) |
